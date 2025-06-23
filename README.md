@@ -11,7 +11,7 @@ A lightweight Soroban smart contract that allows minting, transferring, and view
 To create a simple yet powerful decentralized way to send NFTs with attached messages—ideal for digital greetings, art, and collectibles that carry emotion, meaning, or context with each transfer.
 
 ---
-
+ 
 ## Key Features
 
 - ✅ **Mint NFT**: Any user can mint a new NFT and attach a message.
