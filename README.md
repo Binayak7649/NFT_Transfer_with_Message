@@ -13,7 +13,7 @@ To create a simple yet powerful decentralized way to send NFTs with attached mes
 ---
  
 ## Key Features
-
+  
 - ✅ **Mint NFT**: Any user can mint a new NFT and attach a message.
 - 🔁 **Transfer with Message**: NFTs can be transferred to another user with a new message each time.
 - 👁️ **View NFT**: Easily retrieve metadata of an NFT, including owner and message.
