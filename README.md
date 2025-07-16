@@ -25,7 +25,7 @@ To create a simple yet powerful decentralized way to send NFTs with attached mes
 - 🖼️ Add support for metadata like images, traits, and categories.
 - 🪙 Introduce royalties and transfer limits.
 - 🔒 Implement permission layers for private message viewing.
-- 📦 Connect with IPFS or decentralized storage for richer NFT content.
+- 📦 Connect with IPFS or decentralized storage for richer NFT content as follow.
 
 ---
 ## Contract details
